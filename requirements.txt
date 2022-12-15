@@ -1,0 +1,7 @@
+numpy
+urllib
+gzip
+pickle
+matplotlib
+statistics
+pstats
